@@ -1,0 +1,5 @@
+{
+  "name": "DashConnect",
+  "description": "An interactive dashboard visualizing DoorDash's ecosystem, social impact, and services, featuring an AI-powered insight assistant.",
+  "requestFramePermissions": []
+}
